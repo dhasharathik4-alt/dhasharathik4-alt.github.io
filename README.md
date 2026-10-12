@@ -1,4 +1,4 @@
-# Dhasharathi K — UAV Portfolio (Rev 2: aerospace / defence engineering style)
+# Dhasharathi K — UAV Portfolio
 
 A responsive, static portfolio website built from the résumé and supplied photographs. It uses HTML, CSS, and JavaScript only: no paid hosting, build tools, database, or framework.
 
